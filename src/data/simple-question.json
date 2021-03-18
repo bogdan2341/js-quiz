@@ -1,0 +1,16 @@
+{
+  "name": "Simple questions",
+  "questions": [
+    {
+      "author": "https://github.com/bogdan2341",
+      "q": "Test question",
+      "a": [
+        "Test answer 1",
+        "Test answer 2",
+        "Test answer 3",
+        "Test answer 4"
+      ],
+      "correct": 1
+    }
+  ]
+}

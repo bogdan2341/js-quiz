@@ -1,7 +1,12 @@
 import React from "react";
+import Question from "./components/Question";
 
 function App() {
-  return <div>Init app</div>;
+  return (
+    <div>
+      <Question />
+    </div>
+  );
 }
 
 export default App;
